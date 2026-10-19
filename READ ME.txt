@@ -1,0 +1,20 @@
+DINI - MATLAB toolbox for reconstructing direct network interactions using information-theoretic approaches that isolate the unique contribution of each link, disentangling it from synergistic contributions involving other network nodes
+
+References:
+- C. Barà et al., “Brain–body network reorganization during robot-assisted upper-limb motor tasks and its association with perceived cognitive load and emotional state”. Submitted to Frontiers in Netwowrk Physiology, 2026.
+- I. Lazic et al., “Information-theoretic quantification of high-order feature effects in classification problems”. Chaos, Solitons & Fractals 204, 117724, 2026.
+
+Demonstration scripts
+_____________________
+Simulation - Simulation of a system of 5 nodes, whose activity is described by uniformly distributed random variables evolving in function of the interactions with the other nodes, and application of the proposed network inference strategy as to obtain a network .
+
+
+Main computational functions
+_____________________________
+DINI_network_inference - Inference network algorithm
+DINI_find_Imin_cond - Selection of subgroup of conditioning variables minimizing mutual information and indication on MI and CMI statistical significance
+DINI_MIknn - Computation of mutual information measures
+DINI_CMIknn - Computation of conditional mutual information measures
+DINI_CMIknn_search - Computation of conditional mutual information measures when conditioning on the already selected variables and when adding a new variable
+DINI_surrshuf - Generating surrogate data with random shuffling approach
+DINI_surrcircshift - Generating surrogate data with random temporal shift
