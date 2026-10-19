@@ -1,0 +1,2 @@
+DINI - MATLAB toolbox for reconstructing direct network interactions using information-theoretic approaches that isolate the unique contribution of each link, disentangling it from synergistic contributions involving other network nodes. 
+Information-theoretic measures are computed with the nonlinear nearest-neighbor approach. Exit criteria are determined via surrogate data analysis approach.
