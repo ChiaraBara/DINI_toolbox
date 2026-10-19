@@ -1,4 +1,4 @@
-DINI - MATLAB toolbox for reconstructing direct network interactions using information-theoretic approaches that isolate the unique contribution of each link, disentangling it from synergistic contributions involving other network nodes
+Direct Information-based Network Inference (DINI) - MATLAB toolbox for reconstructing direct network interactions using information-theoretic approaches that isolate the unique contribution of each link, disentangling it from synergistic contributions involving other network nodes
 
 References:
 - C. Barà et al., “Brain–body network reorganization during robot-assisted upper-limb motor tasks and its association with perceived cognitive load and emotional state”. Submitted to Frontiers in Netwowrk Physiology, 2026.
